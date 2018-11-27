@@ -1,0 +1,4 @@
+Server : contient les classes de server
+Client : contient les classes du client
+
+Pour l'ouvrir sur eclipse, mettre client et serveur dans deux project java différents
